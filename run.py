@@ -21,7 +21,7 @@ class Emulate(object):
     def __init__(self):
         self.domain = 'https://www.google.com/recaptcha/api2/demo'
         self.sitekey = '6Le-wvkSAAAAAPBMRTvw0Q4Muexq9bi0DJwx_mJ-'
-        self.page_submit = 'https://fuckonthe.net/return_response.php'
+        self.page_submit = 'https://yourpage'
         self.htmlcode = """<html>
 <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no'>
 
